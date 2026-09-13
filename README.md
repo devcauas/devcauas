@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Me chamo Cauã Souza Almeida, sou do interior de São Paulo e me formei em Análise e Desenvolvimento de Sistemas na Fatec Taubaté. Atualmente trabalho como Trainee - Cientista de Dados na **Dataside**. Construo pipelines de dados em Databricks e soluções de IA aplicada. Compartilho o que aprendo no meu blog "[SpecificData](https://specificdata.dev)", onde explico conceitos de IA a partir do que o desenvolvedor já domina, mostrando onde as analogias com APIs tradicionais funcionam e onde elas quebram.
+Me chamo Cauã Souza Almeida, sou do interior de São Paulo e me formei em Análise e Desenvolvimento de Sistemas na Fatec Taubaté. Atualmente trabalho como Cientista de Dados na **Dataside**. Construo soluções de IA aplicada e desenvolvo/estudo projetos de Databricks e Azure. Compartilho o que aprendo no meu blog "[SpecificData](https://specificdata.dev)", onde explico conceitos de IA a partir do que o desenvolvedor já domina, mostrando onde as analogias com APIs tradicionais funcionam e onde elas quebram.
 
 Estudando para a certificação **Databricks Data Engineering Associate**.
 
