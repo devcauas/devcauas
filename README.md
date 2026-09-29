@@ -12,7 +12,7 @@ Me chamo Cauã Souza Almeida, sou do interior de São Paulo e me formei em Anál
             src="https://custom-icon-badges.demolab.com/badge/SpecificData-1F6FEB?style=for-the-badge&logo=globe&logoColor=white&labelColor=194FA1"
         />
     </a>
-    <a href="https://www.linkedin.com/in/cau%C3%A3-souza-almeida-2a922b231/">
+    <a href="https://www.linkedin.com/in/cauasouzaalmeida/">
         <img
             alt="LinkedIn"
             title="Vamos nos conectar"
@@ -176,11 +176,11 @@ Me chamo Cauã Souza Almeida, sou do interior de São Paulo e me formei em Anál
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [s4lake-order-to-cash](https://github.com/devcauas/s4lake-order-to-cash) | Pipeline Bronze → Silver → Gold no Databricks sobre dados sintéticos no modelo SAP, com KPIs de contas a receber (DSO, aging) e reconciliação linha a linha | Python · PySpark · Delta Lake · Unity Catalog |
-| [spotify_faq_chatbot](https://github.com/devcauas/spotify_faq_chatbot) | Chatbot RAG que responde dúvidas do Spotify usando só a documentação oficial, 100% local e sem APIs pagas | Python · FastAPI · ChromaDB · Ollama · Docker |
-| [rag-from-scratch-python](https://github.com/devcauas/rag-from-scratch-python) | Motor de RAG escrito do zero — chunking, embeddings e FAISS — para dominar o pipeline antes dos frameworks | Python · FAISS |
-| [analise_estatistica_varejo](https://github.com/devcauas/analise_estatistica_varejo) | Análise exploratória e modelos preditivos aplicados a vendas do varejo | Python · pandas · scikit-learn |
-| [TechGraph](https://github.com/devcauas/TechGraph) | Grafo das tecnologias que mais aparecem juntas em repositórios do GitHub. Pipeline de coleta funcional; a API ainda serve dados de amostra | Python · FastAPI · PostgreSQL · D3.js |
+| [s4lake-order-to-cash](https://github.com/devcauas/s4lake-order-to-cash) | Pipeline Bronze → Silver → Gold no Databricks sobre dados sintéticos no modelo SAP (SD/FI-AR), com quarentena de registros inválidos, reconciliação linha a linha e KPIs de contas a receber (DSO, aging). Modelo de risco de atraso em desenvolvimento | Python · PySpark · Delta Lake · Unity Catalog |
+| [spotify_faq_chatbot](https://github.com/devcauas/spotify_faq_chatbot) | Chatbot RAG 100% local sobre a Central de Ajuda do Spotify: scraping da documentação, busca semântica no ChromaDB e respostas do Llama 3.2 via Ollama com as fontes citadas | Python · LangChain · ChromaDB · Ollama · FastAPI · Streamlit · Docker |
+| [analise_estatistica_varejo](https://github.com/devcauas/analise_estatistica_varejo) | Market basket analysis com FP-Growth em transações de varejo: regras de associação filtradas por lift e leverage e recomendação de produtos a partir do carrinho | Python · pandas · mlxtend · NetworkX |
+| [TechGraph](https://github.com/devcauas/TechGraph) | Grafo das tecnologias que mais aparecem juntas em repositórios do GitHub. Pipeline de coleta e carga no PostgreSQL funcional; a API ainda serve dados de amostra | Python · FastAPI · PostgreSQL · D3.js |
+| [rag-from-scratch-python](https://github.com/devcauas/rag-from-scratch-python) | Pipeline RAG escrito do zero, sem frameworks, em construção: ingestão, chunking com overlap e embeddings de 384 dimensões prontos; índice FAISS, busca e geração são os próximos passos | Python · sentence-transformers |
 | [agentes-ia](https://github.com/devcauas/agentes-ia) | 10 agentes de IA clássica com base no livro de Russell & Norvig (AIMA): busca (BFS, DFS, custo uniforme, A*), algoritmos genéticos e lógica proposicional, cada um em um notebook que abre no Colab | Python · Jupyter · matplotlib |
 | [SpecificData](https://github.com/devcauas/SpecificData) | Meu blog técnico sobre IA aplicada, em [specificdata.dev](https://specificdata.dev) | Astro · Cloudflare |
 
