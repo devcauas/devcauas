@@ -176,6 +176,7 @@ Me chamo Cauã Souza Almeida, sou do interior de São Paulo e me formei em Anál
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
+| [s4lake-order-to-cash](https://github.com/devcauas/s4lake-order-to-cash) | Pipeline Bronze → Silver → Gold no Databricks sobre dados sintéticos no modelo SAP, com KPIs de contas a receber (DSO, aging) e reconciliação linha a linha | Python · PySpark · Delta Lake · Unity Catalog |
 | [spotify_faq_chatbot](https://github.com/devcauas/spotify_faq_chatbot) | Chatbot RAG que responde dúvidas do Spotify usando só a documentação oficial, 100% local e sem APIs pagas | Python · FastAPI · ChromaDB · Ollama · Docker |
 | [rag-from-scratch-python](https://github.com/devcauas/rag-from-scratch-python) | Motor de RAG escrito do zero — chunking, embeddings e FAISS — para dominar o pipeline antes dos frameworks | Python · FAISS |
 | [TechGraph](https://github.com/devcauas/TechGraph) | Grafo navegável das tecnologias que mais aparecem juntas em repositórios reais do GitHub | Python · FastAPI · PostgreSQL · D3.js |
