@@ -172,15 +172,16 @@ Me chamo Cauã Souza Almeida, sou do interior de São Paulo e me formei em Anál
 
 ---
 
-### 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
 | Projeto | O que é | Stack |
-| --- | --- | --- |
+|---|---|---|
 | [s4lake-order-to-cash](https://github.com/devcauas/s4lake-order-to-cash) | Pipeline Bronze → Silver → Gold no Databricks sobre dados sintéticos no modelo SAP, com KPIs de contas a receber (DSO, aging) e reconciliação linha a linha | Python · PySpark · Delta Lake · Unity Catalog |
 | [spotify_faq_chatbot](https://github.com/devcauas/spotify_faq_chatbot) | Chatbot RAG que responde dúvidas do Spotify usando só a documentação oficial, 100% local e sem APIs pagas | Python · FastAPI · ChromaDB · Ollama · Docker |
 | [rag-from-scratch-python](https://github.com/devcauas/rag-from-scratch-python) | Motor de RAG escrito do zero — chunking, embeddings e FAISS — para dominar o pipeline antes dos frameworks | Python · FAISS |
-| [TechGraph](https://github.com/devcauas/TechGraph) | Grafo navegável das tecnologias que mais aparecem juntas em repositórios reais do GitHub | Python · FastAPI · PostgreSQL · D3.js |
 | [analise_estatistica_varejo](https://github.com/devcauas/analise_estatistica_varejo) | Análise exploratória e modelos preditivos aplicados a vendas do varejo | Python · pandas · scikit-learn |
+| [TechGraph](https://github.com/devcauas/TechGraph) | Grafo das tecnologias que mais aparecem juntas em repositórios do GitHub. Pipeline de coleta funcional; a API ainda serve dados de amostra | Python · FastAPI · PostgreSQL · D3.js |
+| [agentes-ia](https://github.com/devcauas/agentes-ia) | 10 agentes de IA clássica com base no livro de Russell & Norvig (AIMA): busca (BFS, DFS, custo uniforme, A*), algoritmos genéticos e lógica proposicional, cada um em um notebook que abre no Colab | Python · Jupyter · matplotlib |
 | [SpecificData](https://github.com/devcauas/SpecificData) | Meu blog técnico sobre IA aplicada, em [specificdata.dev](https://specificdata.dev) | Astro · Cloudflare |
 
 ---
