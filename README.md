@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Cauã Souza Almeida
 
-**`Cientista de Dados`**
+**`Cientista de Dados`** **`Analista de Dados`**
 
 Me chamo Cauã Souza Almeida, sou do interior de São Paulo e me formei em Análise e Desenvolvimento de Sistemas na Fatec Taubaté. Atualmente atuo/estudo Ciência de Dados e Análise de Dados. Construo soluções de IA aplicada e desenvolvo/estudo projetos de Databricks e Azure. Compartilho o que aprendo no meu blog "[SpecificData](https://specificdata.dev)", onde explico conceitos de IA a partir do que o desenvolvedor já domina, mostrando onde as analogias com APIs tradicionais funcionam e onde elas quebram.
 
