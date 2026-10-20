@@ -176,6 +176,7 @@ Me chamo Cauã Souza Almeida, sou do interior de São Paulo e me formei em Anál
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [azure-cost-estimator](https://github.com/devcauas/azure-cost-estimator) | Estimador de custos Azure + Databricks feito em dupla no Programa Aceleras (Dataside): preços unitários obtidos por engenharia reversa de orçamentos oficiais (sistema linear 5×5), validação contra casos reais com desvios de −2,1% e +4,2% (tolerância ±5%), teste de regressão automatizado e preenchimento automático a partir de texto livre (beta) | JavaScript · React · Vite · Node.js |
 | [s4lake-order-to-cash](https://github.com/devcauas/s4lake-order-to-cash) | Pipeline Bronze → Silver → Gold no Databricks sobre dados sintéticos no modelo SAP (SD/FI-AR), com quarentena de registros inválidos, reconciliação linha a linha e KPIs de contas a receber (DSO, aging). Modelo de risco de atraso em desenvolvimento | Python · PySpark · Delta Lake · Unity Catalog |
 | [spotify_faq_chatbot](https://github.com/devcauas/spotify_faq_chatbot) | Chatbot RAG 100% local sobre a Central de Ajuda do Spotify: scraping da documentação, busca semântica no ChromaDB e respostas do Llama 3.2 via Ollama com as fontes citadas | Python · LangChain · ChromaDB · Ollama · FastAPI · Streamlit · Docker |
 | [analise_estatistica_varejo](https://github.com/devcauas/analise_estatistica_varejo) | Market basket analysis com FP-Growth em transações de varejo: regras de associação filtradas por lift e leverage e recomendação de produtos a partir do carrinho | Python · pandas · mlxtend · NetworkX |
