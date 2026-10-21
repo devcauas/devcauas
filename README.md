@@ -19,13 +19,6 @@ Me chamo Cauã Souza Almeida, sou do interior de São Paulo e me formei em Anál
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084d91"
         />
     </a>
-    <a href="https://github.com/devcauas?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/devcauas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/devcauas?tab=followers">
         <img
             alt="Seguidores"
